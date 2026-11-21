@@ -1,16 +1,13 @@
-## Hi there 👋
+## alphaprimegang — nice to meet you 👋
 
-<!--
-**alphaprimegang/alphaprimegang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crafting smooth cross-platform mobile apps with Flutter & React Native. Based in Vietnam.
 
-Here are some ideas to get you started:
+- 🛠️ Tinkering with side projects on weekends
+- 🧩 I like small tools that do one thing well
+- 🔭 Currently working on offline-first apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alphaprimegang&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="alphaprimegang GitHub stats" />
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=alphaprimegang&hide_border=true&theme=xcode" alt="Contribution graph" />
+
+<img src="https://img.shields.io/badge/Dart-58a6ff?style=for-the-badge&logoColor=white" alt="Dart" /> <img src="https://img.shields.io/badge/Firebase-58a6ff?style=for-the-badge&logoColor=white" alt="Firebase" /> <img src="https://img.shields.io/badge/TypeScript-58a6ff?style=for-the-badge&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React%20Native-58a6ff?style=for-the-badge&logoColor=white" alt="React Native" />
